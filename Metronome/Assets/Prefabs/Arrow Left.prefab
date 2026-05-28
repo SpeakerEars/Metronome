@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6089061031142034198}
   - component: {fileID: 4730375151003239047}
   - component: {fileID: 3071530018863064550}
+  - component: {fileID: 3388419461967490558}
   m_Layer: 0
   m_Name: Arrow Left
   m_TagString: Notes
@@ -181,3 +182,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlaysoundForMe
   mainAudio: {fileID: 6923239269638464635, guid: ba01c68e56a300b4ea7cdebc3fa5a4fd, type: 3}
   testClip: {fileID: 8300000, guid: 71142ce472a1b1a46a5f15971572226b, type: 3}
+--- !u!114 &3388419461967490558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5472681520873076588}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 539472390dbd8aa4cba6926a982e621f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NoteTileBehaviour
+  BPM: 160
+  moveSpeed: 0
+  difficultyMultiplier: 4
