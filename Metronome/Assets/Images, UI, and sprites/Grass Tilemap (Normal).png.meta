@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: e33eccb1d074891438a6bdf3ea0bd361
+guid: 0db89b4f92d42aa4cac60e427da654e5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4733527291417508356
-    second: Grass Tilemap_0
+      213: 2057328689499313668
+    second: Grass Tilemap (Normal)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
-    sRGBTexture: 1
+    enableMipMap: 1
+    sRGBTexture: 0
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
@@ -19,9 +19,9 @@ TextureImporter:
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
-    convertToNormalMap: 0
+    convertToNormalMap: 1
     externalNormalMap: 0
-    heightScale: 0.25
+    heightScale: 0.064
     normalMapFilter: 0
     flipGreenChannel: 0
   isReadable: 0
@@ -55,9 +55,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 1
+  alphaIsTransparency: 0
   spriteTessellationDetail: -1
-  textureType: 8
+  textureType: 1
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Grass Tilemap_0
+      name: Grass Tilemap (Normal)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,14 +115,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 40abe830efdd0b140800000000000000
-      internalID: 4733527291417508356
+      spriteID: 40693dbfa891d8c10800000000000000
+      internalID: 2057328689499313668
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass Tilemap_1
+      name: Grass Tilemap (Normal)_1
       rect:
         serializedVersion: 2
         x: 32
@@ -137,14 +137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21bab5349b841ea4b958aa4f23c67e98
-      internalID: 738016014
+      spriteID: 38a6d26a7cf02dc43960e2157bdc515b
+      internalID: -451992992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass Tilemap_2
+      name: Grass Tilemap (Normal)_2
       rect:
         serializedVersion: 2
         x: 64
@@ -159,14 +159,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e8f6d0d4d8ff104d97bb7d2cf622c05
-      internalID: -1380655847
+      spriteID: 3a347761c54e34d439fc457f10724eab
+      internalID: 2106480477
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass Tilemap_3
+      name: Grass Tilemap (Normal)_3
       rect:
         serializedVersion: 2
         x: 0
@@ -181,14 +181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fff31522242ac1540b16bc1f26bf75c4
-      internalID: 130100747
+      spriteID: 83deaa82462910645bcde38d59d28e5a
+      internalID: 1183991280
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass Tilemap_4
+      name: Grass Tilemap (Normal)_4
       rect:
         serializedVersion: 2
         x: 32
@@ -203,14 +203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ffcb101292de23a49b979d53c4f5517a
-      internalID: -1539839517
+      spriteID: 1885661feb1c9054495131c380a85ed7
+      internalID: -532363857
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass Tilemap_5
+      name: Grass Tilemap (Normal)_5
       rect:
         serializedVersion: 2
         x: 64
@@ -225,14 +225,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 205784d48dd2fed46b19ca9c7c09eab1
-      internalID: -302819397
+      spriteID: 57e6ed69b928313469bfb6f5ca407681
+      internalID: -885177528
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass Tilemap_6
+      name: Grass Tilemap (Normal)_6
       rect:
         serializedVersion: 2
         x: 0
@@ -247,14 +247,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c502c114c66e75247863b6f658ded9f8
-      internalID: -580467554
+      spriteID: f858d2eb208b8fe4bb81224c13e7de4f
+      internalID: -849021873
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass Tilemap_7
+      name: Grass Tilemap (Normal)_7
       rect:
         serializedVersion: 2
         x: 32
@@ -269,14 +269,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6bab03a8c533e6f419dd028e2ddf7e35
-      internalID: 1271180605
+      spriteID: 744a1136ee64b304f8fd297576494bb7
+      internalID: -1389074687
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass Tilemap_8
+      name: Grass Tilemap (Normal)_8
       rect:
         serializedVersion: 2
         x: 64
@@ -291,14 +291,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4da5c8530a74d8647b2b797c0c83e106
-      internalID: 717378055
+      spriteID: 56b5b4a17f700694391e6e2d7f184527
+      internalID: -980947938
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass Tilemap_9
+      name: Grass Tilemap (Normal)_9
       rect:
         serializedVersion: 2
         x: 0
@@ -313,14 +313,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a19551b6965936e46a6fa810f07c8f69
-      internalID: 1046976138
+      spriteID: b19df3d4e2276744b873593819285614
+      internalID: 947352367
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass Tilemap_10
+      name: Grass Tilemap (Normal)_10
       rect:
         serializedVersion: 2
         x: 32
@@ -335,14 +335,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6b3e7a458c4f744493ebc7bebc9ae9d
-      internalID: 1277488605
+      spriteID: 40e4e41fd6f728a419c39e96ee4dcbf7
+      internalID: 9263722
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass Tilemap_11
+      name: Grass Tilemap (Normal)_11
       rect:
         serializedVersion: 2
         x: 0
@@ -357,14 +357,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11b2456f84bc0394698c1f5e69bdb472
-      internalID: -1825796275
+      spriteID: c83202ac89418e7499d2079721de6337
+      internalID: -733834277
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass Tilemap_12
+      name: Grass Tilemap (Normal)_12
       rect:
         serializedVersion: 2
         x: 32
@@ -379,14 +379,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b29395b2f5395b941b0cee068bd390f1
-      internalID: -1933902411
+      spriteID: 4025f23bc71049d42aeb88e80c402267
+      internalID: 2042477890
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass Tilemap_13
+      name: Grass Tilemap (Normal)_13
       rect:
         serializedVersion: 2
         x: 64
@@ -401,8 +401,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c74ca8d13c28d44f91f061e6c08a1a3
-      internalID: -1182483995
+      spriteID: 6a6bf53573339834a9189f576040948b
+      internalID: -1551370859
       vertices: []
       indices: 
       edges: []
@@ -411,34 +411,32 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: b958fc0e368db7840a1be3d25161a4ce
+    spriteID: 7fde91a8d678e8546a265389925b36df
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
-    secondaryTextures:
-    - texture: {fileID: 2800000, guid: 0db89b4f92d42aa4cac60e427da654e5, type: 3}
-      name: _NormalMap
+    secondaryTextures: []
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Grass Tilemap_0: 4733527291417508356
-      Grass Tilemap_1: 738016014
-      Grass Tilemap_10: 1277488605
-      Grass Tilemap_11: -1825796275
-      Grass Tilemap_12: -1933902411
-      Grass Tilemap_13: -1182483995
-      Grass Tilemap_2: -1380655847
-      Grass Tilemap_3: 130100747
-      Grass Tilemap_4: -1539839517
-      Grass Tilemap_5: -302819397
-      Grass Tilemap_6: -580467554
-      Grass Tilemap_7: 1271180605
-      Grass Tilemap_8: 717378055
-      Grass Tilemap_9: 1046976138
+      Grass Tilemap (Normal)_0: 2057328689499313668
+      Grass Tilemap (Normal)_1: -451992992
+      Grass Tilemap (Normal)_10: 9263722
+      Grass Tilemap (Normal)_11: -733834277
+      Grass Tilemap (Normal)_12: 2042477890
+      Grass Tilemap (Normal)_13: -1551370859
+      Grass Tilemap (Normal)_2: 2106480477
+      Grass Tilemap (Normal)_3: 1183991280
+      Grass Tilemap (Normal)_4: -532363857
+      Grass Tilemap (Normal)_5: -885177528
+      Grass Tilemap (Normal)_6: -849021873
+      Grass Tilemap (Normal)_7: -1389074687
+      Grass Tilemap (Normal)_8: -980947938
+      Grass Tilemap (Normal)_9: 947352367
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
