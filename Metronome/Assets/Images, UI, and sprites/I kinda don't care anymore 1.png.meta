@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: cbc5ad2d81dcfa845843787940b6be37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1468981195636725139
+    second: I kinda don't care anymore_0
+  - first:
+      213: 6924910974477411383
+    second: I kinda don't care anymore_1
+  - first:
+      213: 5736288310024822755
+    second: I kinda don't care anymore_2
+  - first:
+      213: -6762452178764160316
+    second: I kinda don't care anymore_3
+  - first:
+      213: 1814802737134610560
+    second: I kinda don't care anymore_4
+  - first:
+      213: -7592127697318548018
+    second: I kinda don't care anymore_5
+  - first:
+      213: 4424854791230113510
+    second: I kinda don't care anymore_6
+  - first:
+      213: 4575554060446319803
+    second: I kinda don't care anymore_7
+  - first:
+      213: -7546832728877316610
+    second: I kinda don't care anymore_8
+  - first:
+      213: -791226213511756356
+    second: I kinda don't care anymore_9
+  - first:
+      213: -1268573777876011564
+    second: I kinda don't care anymore_10
+  - first:
+      213: 6156628976778465846
+    second: I kinda don't care anymore_11
+  - first:
+      213: -2578013730145026059
+    second: I kinda don't care anymore_12
+  - first:
+      213: -729041882679547611
+    second: I kinda don't care anymore_13
+  - first:
+      213: 7670472099155453236
+    second: I kinda don't care anymore_14
+  - first:
+      213: 5462427020430980682
+    second: I kinda don't care anymore_15
+  - first:
+      213: -6037927767813984827
+    second: I kinda don't care anymore_16
+  - first:
+      213: 1355348470721337698
+    second: I kinda don't care anymore_17
+  - first:
+      213: 7941817277912555640
+    second: I kinda don't care anymore_18
+  - first:
+      213: -1563045758858199700
+    second: I kinda don't care anymore_19
+  - first:
+      213: 728055995503474800
+    second: I kinda don't care anymore_20
+  - first:
+      213: -6944961298951351741
+    second: I kinda don't care anymore_21
+  - first:
+      213: 7967518982598853068
+    second: I kinda don't care anymore_22
+  - first:
+      213: 8682005289236555696
+    second: I kinda don't care anymore_23
+  - first:
+      213: -4548358346652995046
+    second: I kinda don't care anymore_24
+  - first:
+      213: -8019912396661561619
+    second: I kinda don't care anymore_25
+  - first:
+      213: 8872067326348054614
+    second: I kinda don't care anymore_26
+  - first:
+      213: -408049241163324847
+    second: I kinda don't care anymore_27
+  - first:
+      213: -7049811315247912104
+    second: I kinda don't care anymore_28
+  - first:
+      213: -1854108811402532743
+    second: I kinda don't care anymore_29
+  - first:
+      213: -4826418172232292159
+    second: I kinda don't care anymore_30
+  - first:
+      213: 4290190338883529555
+    second: I kinda don't care anymore_31
+  - first:
+      213: -6991261126378280534
+    second: I kinda don't care anymore_32
+  - first:
+      213: 1396298178847402860
+    second: I kinda don't care anymore_33
+  - first:
+      213: 5094394886085119747
+    second: I kinda don't care anymore_34
+  - first:
+      213: 1919505167855144896
+    second: I kinda don't care anymore_35
+  - first:
+      213: 3360212879428977878
+    second: I kinda don't care anymore_36
+  - first:
+      213: 7625326654972711689
+    second: I kinda don't care anymore_37
+  - first:
+      213: 1415053871344517842
+    second: I kinda don't care anymore_38
+  - first:
+      213: 6882615025891797995
+    second: I kinda don't care anymore_39
+  - first:
+      213: 3367924681761351200
+    second: I kinda don't care anymore_40
+  - first:
+      213: -7506871134209164005
+    second: I kinda don't care anymore_41
+  - first:
+      213: 7251966155347927183
+    second: I kinda don't care anymore_42
+  - first:
+      213: -737863615774446877
+    second: I kinda don't care anymore_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 1
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: I kinda don't care anymore_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 892
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395d7ab4d9ed26410800000000000000
+      internalID: 1468981195636725139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 895
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7342eee67d93a1060800000000000000
+      internalID: 6924910974477411383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 902
+        width: 70
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef514863d36b9f40800000000000000
+      internalID: 5736288310024822755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 854
+        width: 218
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2223a8291f622a0800000000000000
+      internalID: -6762452178764160316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 821
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088a05469797f2910800000000000000
+      internalID: 1814802737134610560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 817
+        width: 79
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd6ce7851853a690800000000000000
+      internalID: -7592127697318548018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 781
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6c4fd1dfd386d30800000000000000
+      internalID: 4424854791230113510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 784
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4cf77fc22af7f30800000000000000
+      internalID: 4575554060446319803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 791
+        width: 70
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5c9ff2e93444790800000000000000
+      internalID: -7546832728877316610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 743
+        width: 228
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb587ae63fff405f0800000000000000
+      internalID: -791226213511756356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 710
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d53356cede156ee0800000000000000
+      internalID: -1268573777876011564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 706
+        width: 79
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632d1c66f6db07550800000000000000
+      internalID: 6156628976778465846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 666
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff30acdb2e093cd0800000000000000
+      internalID: -2578013730145026059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 669
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529e084354ce1e5f0800000000000000
+      internalID: -729041882679547611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 676
+        width: 70
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435a4b9fbbdf27a60800000000000000
+      internalID: 7670472099155453236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 628
+        width: 228
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46b8441f607ecb40800000000000000
+      internalID: 5462427020430980682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 595
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdeafb7fa8f43ca0800000000000000
+      internalID: -6037927767813984827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_17
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 591
+        width: 79
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269d630d04a2fc210800000000000000
+      internalID: 1355348470721337698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 520
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870a9099cb0073e60800000000000000
+      internalID: 7941817277912555640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_19
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 523
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d7397e922fe4ae0800000000000000
+      internalID: -1563045758858199700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 530
+        width: 70
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078f39c02139a1a00800000000000000
+      internalID: 728055995503474800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 482
+        width: 228
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3425b2d9e7a8e9f90800000000000000
+      internalID: -6944961298951351741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 449
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc18cfa0d40529e60800000000000000
+      internalID: 7967518982598853068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_23
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 445
+        width: 79
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7e103bfcdac7870800000000000000
+      internalID: 8682005289236555696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_24
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 367
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12b0949e2cf0e0c0800000000000000
+      internalID: -4548358346652995046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_25
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 370
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de66c33aa2c83b090800000000000000
+      internalID: -8019912396661561619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_26
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 377
+        width: 70
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65053522a3aef1b70800000000000000
+      internalID: 8872067326348054614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 329
+        width: 228
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152a7998061565af0800000000000000
+      internalID: -408049241163324847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 296
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b6e15d5f90a2e90800000000000000
+      internalID: -7049811315247912104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_29
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 292
+        width: 79
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9782e690cd1e446e0800000000000000
+      internalID: -1854108811402532743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 205
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8aa9a6e3e150db0800000000000000
+      internalID: -4826418172232292159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_31
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 208
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b27fff161d98b30800000000000000
+      internalID: 4290190338883529555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_32
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 215
+        width: 70
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9a93efb0d0afe90800000000000000
+      internalID: -6991261126378280534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_33
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 167
+        width: 228
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b69b6bbc5a06310800000000000000
+      internalID: 1396298178847402860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_34
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 134
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f8baa582de2b640800000000000000
+      internalID: 5094394886085119747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_35
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 130
+        width: 79
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf488ab7c373aa10800000000000000
+      internalID: 1919505167855144896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_36
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 41
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d48e088fcfd1ae20800000000000000
+      internalID: 3360212879428977878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_37
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 98
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90357f5213a92d960800000000000000
+      internalID: 7625326654972711689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 74
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2088baff743a310800000000000000
+      internalID: 1415053871344517842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 34
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebeb0086e5f38f50800000000000000
+      internalID: 6882615025891797995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_40
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 59
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026e7ae67a54dbe20800000000000000
+      internalID: 3367924681761351200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_41
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 72
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d34def97c32d790800000000000000
+      internalID: -7506871134209164005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 63
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f802ba4bbc824a460800000000000000
+      internalID: 7251966155347927183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I kinda don't care anymore_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea241963f492c5f0800000000000000
+      internalID: -737863615774446877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      I kinda don't care anymore_0: 1468981195636725139
+      I kinda don't care anymore_1: 6924910974477411383
+      I kinda don't care anymore_10: -1268573777876011564
+      I kinda don't care anymore_11: 6156628976778465846
+      I kinda don't care anymore_12: -2578013730145026059
+      I kinda don't care anymore_13: -729041882679547611
+      I kinda don't care anymore_14: 7670472099155453236
+      I kinda don't care anymore_15: 5462427020430980682
+      I kinda don't care anymore_16: -6037927767813984827
+      I kinda don't care anymore_17: 1355348470721337698
+      I kinda don't care anymore_18: 7941817277912555640
+      I kinda don't care anymore_19: -1563045758858199700
+      I kinda don't care anymore_2: 5736288310024822755
+      I kinda don't care anymore_20: 728055995503474800
+      I kinda don't care anymore_21: -6944961298951351741
+      I kinda don't care anymore_22: 7967518982598853068
+      I kinda don't care anymore_23: 8682005289236555696
+      I kinda don't care anymore_24: -4548358346652995046
+      I kinda don't care anymore_25: -8019912396661561619
+      I kinda don't care anymore_26: 8872067326348054614
+      I kinda don't care anymore_27: -408049241163324847
+      I kinda don't care anymore_28: -7049811315247912104
+      I kinda don't care anymore_29: -1854108811402532743
+      I kinda don't care anymore_3: -6762452178764160316
+      I kinda don't care anymore_30: -4826418172232292159
+      I kinda don't care anymore_31: 4290190338883529555
+      I kinda don't care anymore_32: -6991261126378280534
+      I kinda don't care anymore_33: 1396298178847402860
+      I kinda don't care anymore_34: 5094394886085119747
+      I kinda don't care anymore_35: 1919505167855144896
+      I kinda don't care anymore_36: 3360212879428977878
+      I kinda don't care anymore_37: 7625326654972711689
+      I kinda don't care anymore_38: 1415053871344517842
+      I kinda don't care anymore_39: 6882615025891797995
+      I kinda don't care anymore_4: 1814802737134610560
+      I kinda don't care anymore_40: 3367924681761351200
+      I kinda don't care anymore_41: -7506871134209164005
+      I kinda don't care anymore_42: 7251966155347927183
+      I kinda don't care anymore_43: -737863615774446877
+      I kinda don't care anymore_5: -7592127697318548018
+      I kinda don't care anymore_6: 4424854791230113510
+      I kinda don't care anymore_7: 4575554060446319803
+      I kinda don't care anymore_8: -7546832728877316610
+      I kinda don't care anymore_9: -791226213511756356
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

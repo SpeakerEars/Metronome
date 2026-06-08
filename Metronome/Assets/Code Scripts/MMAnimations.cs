@@ -13,11 +13,14 @@ public class MMAnimations : MonoBehaviour
     public bool IsCameraMoveLeft = false;
     public bool IsCameraLeft = false;
     public bool IsCameraMoveCenter = false;
+    public bool IsCameraMoveUp = false;
 	//MMAnimBool
     public bool IsMMCenter = true;
     public bool IsMMMoveRight = false;
     public bool IsMMRight = false;
     public bool IsMMMoveCenter = false;
+    public bool IsMMMoveDown = false;
+    public bool IsMMDown = false;
     //Floats and Ints
     public float CameraAnimTimer = 0;
     public float MMAnimTimer;
@@ -61,6 +64,10 @@ public class MMAnimations : MonoBehaviour
 	    IsCameraMoveCenter = false;
 	    CameraAnimTimer = 0;
 	}
+	if(IsCameraMoveUp)
+	{
+	    CameraAnim.Play("CameraMoveUp");
+	}
 
 	//MMAnimations
 	if(IsMMCenter)
@@ -93,6 +100,21 @@ public class MMAnimations : MonoBehaviour
 	    IsMMMoveCenter = false;
 	    MMAnimTimer = 0;
 	}
+	if(IsMMMoveDown)
+	{
+	    MMCanvasAnim.Play("MMMoveDown");
+	    MMAnimTimer += Time.deltaTime;
+	}
+	if(MMAnimTimer >= 0.5 && IsMMMoveDown)
+	{
+	    IsMMDown = true;
+	    IsMMMoveDown = false;
+	    MMAnimTimer = 0;
+	}
+	if(IsMMDown)
+	{
+	    MMCanvasAnim.Play("MMDown");
+	}
     }
     public void Options()
     {
@@ -107,5 +129,12 @@ public class MMAnimations : MonoBehaviour
         IsCameraMoveCenter = true;
 	IsMMRight = false;
 	IsMMMoveCenter = true;
+    }
+    public void PlayGame()
+    {
+        IsCameraCenter = false;
+	IsCameraMoveUp = true;
+	IsMMCenter = false;
+	IsMMMoveDown = true;
     }
 }
